@@ -58,3 +58,8 @@ Inspire-se consultando os exemplos que tem na pasta community.
 8. Envie suas alterações para o repositório remoto `git push origin community/SEU_USERNAME`
 
 9. Crie um **Pull Request**
+
+
+## 🎮 Projetos: Poste seus Projetos na comunidade
+
+Clique no Link abaixo para ser redirecionado para o README dos projetos
