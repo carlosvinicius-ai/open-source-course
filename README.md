@@ -63,3 +63,5 @@ Inspire-se consultando os exemplos que tem na pasta community.
 ## 🎮 Projetos: Poste seus Projetos na comunidade
 
 Clique no Link abaixo para ser redirecionado para o README dos projetos
+
+[Instruções-para-o-seu-projeto](https://github.com/carlosvinicius-ai/open-source-course/tree/main/projects)
