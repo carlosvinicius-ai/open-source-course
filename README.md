@@ -41,7 +41,7 @@ Inspire-se consultando os exemplos que tem na pasta community.
 
     [Um pouco mais sobre o markdown e README](https://www.alura.com.br/artigos/escrever-bom-readme)
 
-5. Desenvolva o seu perfil. Para isso use o README de exemplo da pasta community e utilize alguns utilitários da pasta useful.
+5. Desenvolva o seu perfil. Para isso use o README de exemplo da pasta [community](https://github.com/carlosvinicius-ai/open-source-course/tree/main/community) e utilize alguns utilitários da pasta useful.
 
     > Use como inspiração, mas pode utilizar toda a sua criatividade
 
