@@ -4,4 +4,4 @@ Bem vindo aos utilitários para você incluir em seus README profissionais, fiqu
 
 ## Github Badges
 
-aqui são todas as badges de linguagens e conteúdos que você pode encontrar 
+aqui são todas as badges de linguagens e conteúdos que você pode encontrar [badges](https://github.com/carlosvinicius-ai/open-source-course/tree/main/useful/badges)
