@@ -8,4 +8,4 @@ aqui são todas as badges de linguagens e conteúdos que você pode encontrar [b
 
 ## Github Stats
 
-aqui está a base com os principais stats para o seu Github
+aqui está a base com os principais stats para o seu Github [stats](https://github.com/carlosvinicius-ai/open-source-course/tree/main/useful/stats)

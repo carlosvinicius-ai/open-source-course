@@ -60,3 +60,5 @@ Temos diversos temas disponíveis, apenas altere a parte `theme=default` para o 
 
 
 ---
+
+Link do repositório base [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
