@@ -5,7 +5,7 @@
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="100" height="100" alt="Selenium">
   <img src="https://placehold.it/100x100?text=ElevenLabs" width="100" height="100" alt="ElevenLabs">
   <img src="https://avatars.githubusercontent.com/u/166254117?v=4" width="100" height="100" alt="ElevenLabs">
-  <img src="https://avatars.githubusercontent.com/u/84950231?v=4" width="100" height="100" alt="ElevenLabs">
+  <img src="https://media.licdn.com/dms/image/D4D03AQE8ttUZuVcVgg/profile-displayphoto-shrink_200_200/0/1691262642623?e=2147483647&v=beta&t=CDhIYWtiPwNZaq40XYMyQG4ncRFlNZi-hQnnQD6w6h4" width="100" height="100" alt="ElevenLabs">
 </p>
 
 
@@ -38,9 +38,9 @@ O projeto inclui login e senhas que somentes os analistas tem para acesso a apli
 O código-fonte inclui um script Python simples que demonstra a integração com a API simples para notificar o analista o termino da execução do script. 
 
 ## Envolvidos no projeto
-- Gentil Caitano [![LinkedIn](https://img.shields.io/badge/Gentil%20Caitano-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/gentiln)
+- [![LinkedIn](https://img.shields.io/badge/Gentil%20Caitano-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/gentiln)
   
-- Felipe Feliciano [![LinkedIn](https://img.shields.io/badge/Felipe%20Feliciano%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Felipe-Feliciano-Costa/)
+- [![LinkedIn](https://img.shields.io/badge/Felipe%20Feliciano%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Felipe-Feliciano-Costa/)
 
 ## Tecnologias utilizadas 
 
