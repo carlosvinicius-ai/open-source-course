@@ -34,11 +34,6 @@ prefs = {
 }
 options.add_experimental_option("prefs", prefs)
 
-#nome das variavies teste
-#nome = '72187 - V4 NUC POSTO SHELL FASE QUATTRO ANHANGUERA'
-#routingId = '72187-V4NUCPOSTOSHELLFASEQUATTROANHANGUERA'
-#userSftp = 'ABAST.72187-V4NUCPOSTOSHELLFASEQUATTROANHANGUERA'
-#b2bi = '/backup/axway/EDI/1.ENVIO/4.ABASTECE/72187-V4NUCPOSTOSHELLFASEQUATTROANHANGUERA'
 
 senha_user = "SemParar"
 sftp_server = 'datatransfer.fleetcor.com.br'
