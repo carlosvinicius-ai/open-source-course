@@ -35,12 +35,15 @@ O projeto inclui login e senhas que somentes os analistas tem para acesso a apli
 
 ## Como Usar
 
+Link para Community [![Community](https://img.shields.io/badge/GitHub-Community-green?style=flat&logo=github)](https://github.com/Gentil-neto/open-source-course/tree/main/projects/Gentil-Neto)
+
 O código-fonte inclui um script Python simples que demonstra a integração com a API simples para notificar o analista o termino da execução do script. 
 
 ## Envolvidos no projeto
 - [![LinkedIn](https://img.shields.io/badge/Gentil%20Caitano-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/gentiln)
   
 - [![LinkedIn](https://img.shields.io/badge/Felipe%20Feliciano%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Felipe-Feliciano-Costa/)
+  
 
 ## Tecnologias utilizadas 
 
