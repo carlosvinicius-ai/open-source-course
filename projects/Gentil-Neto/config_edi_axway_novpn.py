@@ -39,11 +39,7 @@ prefs = {
 }
 options.add_experimental_option("prefs", prefs)
 
-#nome das variavies teste
-#nome = '72187 - V4 NUC POSTO SHELL FASE QUATTRO ANHANGUERA'
-#routingId = '72187-V4NUCPOSTOSHELLFASEQUATTROANHANGUERA'
-#userSftp = 'ABAST.72187-V4NUCPOSTOSHELLFASEQUATTROANHANGUERA'
-#b2bi = '/backup/axway/EDI/1.ENVIO/4.ABASTECE/72187-V4NUCPOSTOSHELLFASEQUATTROANHANGUERA'
+
 
 def processa_linhas(cod, nome):
     # Atribui cada parte a variáveis e prepara as partes do texto para as variaveis
@@ -72,8 +68,6 @@ if len(sys.argv) < 3:
 login_ = sys.argv[1]
 senha_ = sys.argv[2]
 
-#login_ = 'admin'
-#senha_ = 'Secret@2'
 senha_user = "SemParar"
 sftp_server = 'datatransfer.fleetcor.com.br'
 porta = 4022
