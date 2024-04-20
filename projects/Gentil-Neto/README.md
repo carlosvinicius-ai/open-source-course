@@ -44,7 +44,8 @@ O código-fonte inclui um script Python simples que demonstra a integração com
 ## Envolvidos no projeto
 - [![LinkedIn](https://img.shields.io/badge/Gentil%20Caitano-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/gentiln)
   
-- [![LinkedIn](https://img.shields.io/badge/Felipe%20Feliciano%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Felipe-Feliciano-Costa/)
+- [![LinkedIn](https://img.shields.io/badge/Felipe%20Feliciano%20Costa-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/felipe-feliciano-costa-56354a27b)
+
   
 
 ## Tecnologias utilizadas 
