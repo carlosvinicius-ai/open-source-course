@@ -16,7 +16,7 @@ via RPA(Robô de processo administrativo) está em média de 2 minutos, fornecen
 Foi utilizado python para o desenvolvimento da lógica e tratativa dos campos junto ao Selenium e utiliza a API da ElevenLabs para transformar texto em fala utilizando Python. A integração demonstra como gerar áudio 
 a partir de textos específicos utilizando vozes customizadas disponíveis através da ElevenLabs para notificar o analista o termino do script.
 
-## 5.2. Qual é o propósito do projeto
+## Qual é o propósito do projeto
 
 O propósito principal deste projeto é fornecer um exemplo prático e funcional de como usar os conceitos aprendidos em sala de aula para aplicação real, busca-se também:
 
@@ -34,6 +34,8 @@ O projeto inclui login e senhas que somentes os analistas tem para acesso a apli
 - **Bloqueio por Políticas de Segurança**: Estratégias para solicitar alterações nas políticas de filtragem de conteúdo ou o uso de VPNs com a aprovação do departamento de TI.
 
 ## Como Usar
+
+- Inicialmente deve descompactar a pasta .7z na mesma pasta do projeto, configuar o arquivo Postos.txt conforme explicação em sala, executar o arquivo tela_edi_main.py, a partir dela colocar login e senha e clickar no botão AXWAY 
 
 Link para Community [![Community](https://img.shields.io/badge/GitHub-Community-green?style=flat&logo=github)](https://github.com/Gentil-neto/open-source-course/tree/main/projects/Gentil-Neto)
 
