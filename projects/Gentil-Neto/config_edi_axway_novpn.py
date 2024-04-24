@@ -68,10 +68,10 @@ if len(sys.argv) < 3:
 login_ = sys.argv[1]
 senha_ = sys.argv[2]
 
-senha_user = "SemParar"
-sftp_server = 'datatransfer.fleetcor.com.br'
-porta = 4022
-porta_axway = 6443 
+senha_user = "senha"
+sftp_server = 'www.SemParar.com.br'
+porta = xxxx
+porta_axway = xxxx 
 
 driver = webdriver.Edge(service=service, options=options)
 driver.implicitly_wait(10)  # Espera implícita de 10 segundos
