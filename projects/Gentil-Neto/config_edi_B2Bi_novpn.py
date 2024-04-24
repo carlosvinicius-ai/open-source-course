@@ -35,15 +35,15 @@ prefs = {
 options.add_experimental_option("prefs", prefs)
 
 
-senha_user = "SemParar"
-sftp_server = 'datatransfer.fleetcor.com.br'
-porta = 4022
+senha_user = "Senha"
+sftp_server = 'www.SemParar.com.br'
+porta = xxxx
 contact = 'Service Support (servicesupport@semparar.net)'
 
 driver = webdriver.Edge(service=service, options=options)
 driver.implicitly_wait(10)  # Espera implícita de 10 segundos
 
-driver.get('https://10.0.161.37:6443/ui/')
+driver.get('IP SITE')
 
 # Login
 def logar():
